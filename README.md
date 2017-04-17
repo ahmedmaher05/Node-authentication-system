@@ -1,4 +1,4 @@
-# creators
+# authentication
 a full "MEAN" stack authentication system (registeration&amp;verification&amp;password reset) 
 
 how to contribute ? 
