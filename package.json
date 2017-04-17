@@ -1,0 +1,28 @@
+{
+  "name": "creators",
+  "version": "1.0.0",
+  "description": "registration and verification system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.3.0",
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "^1.15.2",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "^4.9.4",
+    "nodemailer": "^4.0.1",
+    "passport": "^0.3.2",
+    "passport-http": "*",
+    "passport-local": "^1.0.0"
+  }
+}
