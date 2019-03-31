@@ -1,5 +1,5 @@
 # authentication
-a full "MEAN" stack authentication system (registeration&amp;verification&amp;password reset) 
+a full "MEAN" stack authentication system (Registeration&amp;Login&amp;Verification&amp;Password reset) 
 
 how to contribute ? 
 * as a programmer : send pull requests with whatever modification if it adds to the system anything 
